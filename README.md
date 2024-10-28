@@ -41,18 +41,18 @@ This is an application that aims to order food in the form of pasta that can be 
 
 ## ScreenShots
 
-![Alt text](./imageCafe/1.png)
-![Alt text](./imageCafe/2.png)
-![Alt text](./imageCafe/3.png)
-![Alt text](./imageCafe/4.png)
-![Alt text](./imageCafe/5.png)
-![Alt text](./imageCafe/6.png)
-![Alt text](./imageCafe/7.png)
-![Alt text](./imageCafe/8.png)
-![Alt text](./imageCafe/9.png)
-![Alt text](./imageCafe/10.png)
-![Alt text](./imageCafe/11.png)
-![Alt text](./imageCafe/12.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/1.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/2.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/3.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/4.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/5.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/6.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/7.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/8.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/9.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/10.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/11.png)
+![Alt text](./CafeFoodOrderApp/imageCafe/12.png)
 
 
 
