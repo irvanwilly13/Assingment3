@@ -20,7 +20,6 @@ This is an application that aims to order food in the form of pasta that can be 
 - *Change BirthDate*:  Change the Birthday date.
 - *History Order*: Can see for History Order.
 - *Payment*:  Payment for food order.
-- *History Order*:  History order food app.
 
 
 
@@ -28,7 +27,7 @@ This is an application that aims to order food in the form of pasta that can be 
 
 1. *Clone the repository*
    sh
-   git clone https://github.com/irvanwilly13/Assignment2_MuhammadIrvanWilly
+   git clone https://github.com/irvanwilly13/Assingment3
 
 2. *Open the project*
    Open the cloned repository in Xcode.
